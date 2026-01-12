@@ -104,7 +104,7 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 
 - [MCP (Model Context Protocol)](https://modelcontextprotocol.io/) - Open protocol for AI model interactions
 - [A2A (Agent2Agent)](https://github.com/google/A2A) - Protocol for agent-to-agent communication
-- [AP2 (Agent Payments Protocol)](https://ucp.dev/ucp-and-ap2/) - Secure payment protocol with cryptographic consent
+- [AP2 (Agent Payments Protocol)](https://github.com/google-agentic-commerce/AP2) - Secure payment protocol with cryptographic consent
 
 ---
 
