@@ -18,10 +18,10 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 ## Official Resources
 
 - [Documentation](https://ucp.dev/) - Protocol overview, core concepts, and design principles
-- [GitHub Repository](https://github.com/anthropics/ucp) - Technical spec, SDKs, and reference implementations
-- [Specification](https://ucp.dev/specification/) - Complete technical specification
+- [GitHub Repository](https://github.com/Universal-Commerce-Protocol/ucp) - Technical spec, SDKs, and reference implementations
+- [Specification](https://ucp.dev/specification/overview/) - Complete technical specification
 - [Playground](https://ucp.dev/playground/) - Experiment with the protocol
-- [Roadmap](https://ucp.dev/roadmap/) - Future development plans
+- [Roadmap](https://ucp.dev/documentation/roadmap/) - Future development plans
 
 ## Legend
 
@@ -104,7 +104,7 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 
 - [MCP (Model Context Protocol)](https://modelcontextprotocol.io/) - Open protocol for AI model interactions
 - [A2A (Agent2Agent)](https://github.com/google/A2A) - Protocol for agent-to-agent communication
-- [AP2 (Agent Payments Protocol)](https://ucp.dev/ucp-and-ap2/) - Secure payment protocol with cryptographic consent
+- [AP2 (Agent Payments Protocol)](https://github.com/google-agentic-commerce/AP2) - Secure payment protocol with cryptographic consent
 
 ---
 
