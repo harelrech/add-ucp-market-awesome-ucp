@@ -82,6 +82,9 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 ## Implementations
 
 - 🎖️🐍 [Official Python SDK](https://github.com/Universal-Commerce-Protocol/python-sdk) - The official Python library for UCP with Pydantic models
+- ☁️🏪 [Google UCP Merchant Docs](https://developers.google.com/merchant/ucp) - Guide for merchants to enable AI-powered purchases through Google's AI surfaces like Search AI Mode and Gemini
+- ☁️🏪 [Shopify - Agentic Commerce with UCP](https://shopify.dev/docs/agents) - Framework for building AI agents that search products, create checkouts, and track orders across Shopify merchants
+
 
 ## AI & Agent Integrations
 
@@ -106,5 +109,3 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 ## Contributing
 
 Contributions are welcome! Please read the contribution guidelines first.
-
-
